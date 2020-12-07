@@ -1,2 +1,2 @@
 # Film-posters
-HTML &amp; D3.js used to create animated Film posters
+Using HTML + D3.js to create animated Film posters
